@@ -1,3 +1,3 @@
-# building2grid
+# Padé approximant
 
-This is a test repo for MZ to learn how to git it!
+A repo for MZ to transfer something!
