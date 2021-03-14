@@ -1,3 +1,3 @@
 # Intro
 
-A repo for MZ to transfer something!
+A repo to transfer something!
